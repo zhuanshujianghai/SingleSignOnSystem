@@ -1,0 +1,14 @@
+E:\projects\mynet\SingleSignOnSystem\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+E:\projects\mynet\SingleSignOnSystem\Service\bin\Debug\netcoreapp3.1\Service.dll
+E:\projects\mynet\SingleSignOnSystem\Service\bin\Debug\netcoreapp3.1\Service.pdb
+E:\projects\mynet\SingleSignOnSystem\Service\bin\Debug\netcoreapp3.1\DataModel.dll
+E:\projects\mynet\SingleSignOnSystem\Service\bin\Debug\netcoreapp3.1\IService.dll
+E:\projects\mynet\SingleSignOnSystem\Service\bin\Debug\netcoreapp3.1\IService.pdb
+E:\projects\mynet\SingleSignOnSystem\Service\bin\Debug\netcoreapp3.1\DataModel.pdb
+E:\projects\mynet\SingleSignOnSystem\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+E:\projects\mynet\SingleSignOnSystem\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+E:\projects\mynet\SingleSignOnSystem\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+E:\projects\mynet\SingleSignOnSystem\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+E:\projects\mynet\SingleSignOnSystem\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+E:\projects\mynet\SingleSignOnSystem\Service\obj\Debug\netcoreapp3.1\Service.dll
+E:\projects\mynet\SingleSignOnSystem\Service\obj\Debug\netcoreapp3.1\Service.pdb
