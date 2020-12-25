@@ -8533,11 +8533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\mynet\\SingleSignOnSystem\\SingleSignOnSystem\\SingleSignOnSystem.csproj",
+      "projectUniqueName": "E:\\projects\\github\\SingleSignOnSystem\\SingleSignOnSystem\\SingleSignOnSystem.csproj",
       "projectName": "SingleSignOnSystem",
-      "projectPath": "E:\\projects\\mynet\\SingleSignOnSystem\\SingleSignOnSystem\\SingleSignOnSystem.csproj",
+      "projectPath": "E:\\projects\\github\\SingleSignOnSystem\\SingleSignOnSystem\\SingleSignOnSystem.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\mynet\\SingleSignOnSystem\\SingleSignOnSystem\\obj\\",
+      "outputPath": "E:\\projects\\github\\SingleSignOnSystem\\SingleSignOnSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8555,12 +8555,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\projects\\mynet\\SingleSignOnSystem\\IService\\IService.csproj": {
-              "projectPath": "E:\\projects\\mynet\\SingleSignOnSystem\\IService\\IService.csproj"
+            "E:\\projects\\github\\SingleSignOnSystem\\IService\\IService.csproj": {
+              "projectPath": "E:\\projects\\github\\SingleSignOnSystem\\IService\\IService.csproj"
             },
-            "E:\\projects\\mynet\\SingleSignOnSystem\\Service\\Service.csproj": {
-              "projectPath": "E:\\projects\\mynet\\SingleSignOnSystem\\Service\\Service.csproj"
+            "E:\\projects\\github\\SingleSignOnSystem\\Service\\Service.csproj": {
+              "projectPath": "E:\\projects\\github\\SingleSignOnSystem\\Service\\Service.csproj"
             }
           }
         }
@@ -8573,6 +8574,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "IdentityServer4": {
             "target": "Package",
@@ -8609,7 +8611,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

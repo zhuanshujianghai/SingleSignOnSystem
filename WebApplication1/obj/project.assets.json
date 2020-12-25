@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\mynet\\SingleSignOnSystem\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\projects\\github\\SingleSignOnSystem\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "E:\\projects\\mynet\\SingleSignOnSystem\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "E:\\projects\\github\\SingleSignOnSystem\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\mynet\\SingleSignOnSystem\\WebApplication1\\obj\\",
+      "outputPath": "E:\\projects\\github\\SingleSignOnSystem\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -513,6 +513,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -524,6 +525,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "IdentityServer4": {
             "target": "Package",
@@ -548,7 +550,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

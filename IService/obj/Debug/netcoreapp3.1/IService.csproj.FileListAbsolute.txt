@@ -10,3 +10,15 @@ E:\projects\mynet\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.A
 E:\projects\mynet\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.csproj.CopyComplete
 E:\projects\mynet\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.dll
 E:\projects\mynet\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.pdb
+E:\projects\github\SingleSignOnSystem\IService\bin\Debug\netcoreapp3.1\IService.deps.json
+E:\projects\github\SingleSignOnSystem\IService\bin\Debug\netcoreapp3.1\IService.dll
+E:\projects\github\SingleSignOnSystem\IService\bin\Debug\netcoreapp3.1\IService.pdb
+E:\projects\github\SingleSignOnSystem\IService\bin\Debug\netcoreapp3.1\DataModel.dll
+E:\projects\github\SingleSignOnSystem\IService\bin\Debug\netcoreapp3.1\DataModel.pdb
+E:\projects\github\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.csprojAssemblyReference.cache
+E:\projects\github\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.AssemblyInfoInputs.cache
+E:\projects\github\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.AssemblyInfo.cs
+E:\projects\github\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.csproj.CoreCompileInputs.cache
+E:\projects\github\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.csproj.CopyComplete
+E:\projects\github\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.dll
+E:\projects\github\SingleSignOnSystem\IService\obj\Debug\netcoreapp3.1\IService.pdb

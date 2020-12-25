@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8UWP7n2iy1CgWeTlhgHooAHQbn6SREncRrAI0EDg+gIVa9HVXpvAII2l6LFZTnYzU7krqf46MFBJQJ/iMnJdPA==",
+  "dgSpecHash": "y32CKB1roYub5YMPfqyvK8WD+1IyhHbY9Jmamtpaz36QtEcx014MoflepBxlSXUMRygV6EJTSH/iOQgyj19k9A==",
   "success": true,
-  "projectFilePath": "E:\\projects\\mynet\\SingleSignOnSystem\\StockManagerSystem\\StockManagerSystem.csproj",
+  "projectFilePath": "E:\\projects\\github\\SingleSignOnSystem\\StockManagerSystem\\StockManagerSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\identityserver4\\3.1.3\\identityserver4.3.1.3.nupkg.sha512",

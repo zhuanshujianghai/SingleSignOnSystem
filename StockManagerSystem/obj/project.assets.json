@@ -6392,11 +6392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\mynet\\SingleSignOnSystem\\StockManagerSystem\\StockManagerSystem.csproj",
+      "projectUniqueName": "E:\\projects\\github\\SingleSignOnSystem\\StockManagerSystem\\StockManagerSystem.csproj",
       "projectName": "StockManagerSystem",
-      "projectPath": "E:\\projects\\mynet\\SingleSignOnSystem\\StockManagerSystem\\StockManagerSystem.csproj",
+      "projectPath": "E:\\projects\\github\\SingleSignOnSystem\\StockManagerSystem\\StockManagerSystem.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\mynet\\SingleSignOnSystem\\StockManagerSystem\\obj\\",
+      "outputPath": "E:\\projects\\github\\SingleSignOnSystem\\StockManagerSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6414,6 +6414,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -6425,6 +6426,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "IdentityServer4": {
             "target": "Package",
@@ -6453,7 +6455,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

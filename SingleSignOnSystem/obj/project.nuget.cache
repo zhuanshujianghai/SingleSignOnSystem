@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "miZPrGkBYu7UnvQzHCwRlXWLj+sLSdsk+Q+9qtoBl4sK7+cnK9pYMo537cCz5w9RK4tiEl+UQSHOLhAJvj6q5g==",
+  "dgSpecHash": "2Y1m9Zx2RorSMV7F4JzigbXHQZ6saPhgqX9PYUbpnebduhzk8k5uY0FTP0+BM4k8eU2qsUOponrIUfWWN4SAfg==",
   "success": true,
-  "projectFilePath": "E:\\projects\\mynet\\SingleSignOnSystem\\SingleSignOnSystem\\SingleSignOnSystem.csproj",
+  "projectFilePath": "E:\\projects\\github\\SingleSignOnSystem\\SingleSignOnSystem\\SingleSignOnSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\identityserver4\\3.1.3\\identityserver4.3.1.3.nupkg.sha512",
