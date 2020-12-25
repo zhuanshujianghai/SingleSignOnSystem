@@ -7,12 +7,3 @@ E:\projects\mynet\SingleSignOnSystem\DataModel\bin\Debug\netcoreapp3.1\DataModel
 E:\projects\mynet\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CoreCompileInputs.cache
 E:\projects\mynet\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
 E:\projects\mynet\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb
-E:\projects\github\SingleSignOnSystem\DataModel\bin\Debug\netcoreapp3.1\DataModel.deps.json
-E:\projects\github\SingleSignOnSystem\DataModel\bin\Debug\netcoreapp3.1\DataModel.dll
-E:\projects\github\SingleSignOnSystem\DataModel\bin\Debug\netcoreapp3.1\DataModel.pdb
-E:\projects\github\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.csprojAssemblyReference.cache
-E:\projects\github\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfoInputs.cache
-E:\projects\github\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfo.cs
-E:\projects\github\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CoreCompileInputs.cache
-E:\projects\github\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
-E:\projects\github\SingleSignOnSystem\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb

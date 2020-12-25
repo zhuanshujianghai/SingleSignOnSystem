@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rscIyFD1mIAKgqpW8CZqhvcTzFF1i7MhGe2WozD7H2lonrMvXzdYV0xh+Nc5WUqzXm6pU8V8qQyNYNOVzhruqg==",
+  "dgSpecHash": "UEwis4RfwaEUQ2z1LXbntg4l7H2cFjr/UunQorKEWigo9GFkUi0zyVrttoRKH8/XgqfVXlrviMg6gxW15n43zQ==",
   "success": true,
-  "projectFilePath": "E:\\projects\\github\\SingleSignOnSystem\\IService\\IService.csproj",
+  "projectFilePath": "E:\\projects\\mynet\\SingleSignOnSystem\\IService\\IService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

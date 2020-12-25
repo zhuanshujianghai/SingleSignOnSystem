@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ay90CzYY9rkHMLCrFN770cv56HGvDYHr8GeuhgmoKIsk6G63LQV3UK2qNkpz1iK/8xfBcORaVfDBlf7HZqkxAg==",
+  "dgSpecHash": "nakMO1G+UjphHkVG8QWM8+l/nCRdTDpL7H3crqxkbD0PyCVkS34rd4tZ4LsHMKs6OPq3SkSlj92uttncgAbeOQ==",
   "success": true,
-  "projectFilePath": "E:\\projects\\github\\SingleSignOnSystem\\Common\\Common.csproj",
+  "projectFilePath": "E:\\projects\\mynet\\SingleSignOnSystem\\Common\\Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
